@@ -1,0 +1,7 @@
+CPU: {'i3': 0, 'i5': 1, "i7": 2}
+RAM: {'4GB': 0, '8GB': 1, '16GB': 2}
+PIXEL SHADER: {'3.0': 0, '5.0': 1, '5.1': 2}
+OS: {'Windows': 0, 'Linux': 1, 'MacOS': 2}
+FREE DISK SPACE: {'Até 100 GB': 0, 'Entre 100 e 200 GB': 1, 'Acima de 200 GB': 2}
+DEDICATED VIDEO RAM: {'1 GB': 0, '2 GB': 1, '3 GB': 2}
+Diagnóstico: {'GTA 5': 0, 'BALDURS GATE 3': 1, 'Red Dead Redemption 2': 2, 'Fortnite': 3, 'Cyberpunk 2077 ': 4, 'VALORANT': 5}
